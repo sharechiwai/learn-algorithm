@@ -1,0 +1,23 @@
+{
+  "name": "learn-algorithm",
+  "version": "1.0.0",
+  "description": "contain sample code of algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharechiwai/learn-algorithm.git"
+  },
+  "keywords": [
+    "algorithm"
+  ],
+  "type":"module",
+  "author": "sharechiwai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharechiwai/learn-algorithm/issues"
+  },
+  "homepage": "https://github.com/sharechiwai/learn-algorithm#readme"
+}
